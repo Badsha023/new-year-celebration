@@ -52,11 +52,12 @@ width: 200px;
 /* footer section */
 
 
-footer h4 {
+.footer h4 {
     font-family: "Inter", sans-serif;
     color: #fff;
+    font-size: 24px;
 }
-  
+
 .footer{
     background: #070211;
 }
@@ -71,6 +72,7 @@ footer h4 {
     align-items: center;
     justify-content: space-between;
     padding: 50px 290px 0px 140px;
+    font-family: "Inter", sans-serif;
 }
 .line-break{
     height: 1px;
@@ -79,15 +81,18 @@ footer h4 {
     margin: 40px 200px 40px 140px;
 }
 .call{
-    margin-top: 20px;
-    margin-right: 5px;
+    margin-top: 34px;
+    margin-right: 16px;
+    margin-bottom: 20px;
     width: 24px;
     height: 24px;
+    padding-left: 10px ;
 }
 .footer-mid{
     padding: 0px 780px;
     display: flex;
     gap: 20px;
+    
     
 }
 .footer-end{
