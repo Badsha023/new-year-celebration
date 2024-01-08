@@ -1,0 +1,43 @@
+/* welcome party */
+.welcome-party{
+    margin: 120px;
+    padding: 0 140px;
+}
+.welcome-section{
+    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Vectorrr.png');
+    background-blend-mode: multiply;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+   
+}
+.welcome-heading{
+    display: flex;
+    place-items: center;
+    padding: 70px 120px;
+    gap: 45px;
+}
+  
+.welcome-title{
+    color: #fff;
+    font-size: 64px;
+    font-weight: 900;
+    letter-spacing: 7.04px;
+}
+.description{
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+    font-family: 'Inter', sans-serif; 
+}
+.button-click{
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 100px;
+    background-color: #070211;
+    border-radius: 3px;
+    border: none;
+    padding-left: 20px;
+
+}
