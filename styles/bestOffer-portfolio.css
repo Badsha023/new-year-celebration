@@ -1,0 +1,50 @@
+/* best offer section */
+
+.best-offer{
+    padding: 0px 20px;
+    margin: 120px;
+    background: #FFF;;
+}
+
+.best{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.special-announcement{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px; /* 160% */
+}
+.new-year{
+    color: #f00;
+    font-family: "Inter", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+}
+.party-photo{
+    border-radius: 463px;
+    border: 12px solid #F00;
+    padding: 19px;
+}
+.mid-photo{
+    width: 350px;
+    height: 350px;
+    padding:8px;
+}
+.left-side{
+   color: #F00
+}
+.year-discount{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px; /* 160% */
+}
+.down-side{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    }
