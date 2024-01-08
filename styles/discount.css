@@ -1,0 +1,20 @@
+/* discount section font */
+.discount{
+    font-family: 'Inter', sans-serif; 
+    text-align: center;
+    margin-top: 120px;
+}
+.bonus-offer{
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;
+}
+.bonus-type{
+    color: #F00;
+    font-size: 20px;
+}
+.all-categories{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+}
